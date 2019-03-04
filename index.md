@@ -35,4 +35,24 @@ Software engineering is the application of systematic, disciplined, quantifiable
 * Software Testing 软件测试测:一项旨在通过识别缺陷来评估产品质量并改进产品质量的活动
 * Software Maintenance 软件维护：调整软件在新的和修改的操作环境中运行，以纠正错误
 * Software Configuration Management 软件配置管理：软件配置管理（SCM）是在不同时间点识别系统配置的规训、(discipline)，用于系统地控制配置的改变，以及在整个软件生命周期中维持配置的完整性和可追溯性。
-* Software Engineering Management 软件工程管理：
+* Software Engineering Management 软件工程管理：软件工程管理涉及规划，协调，测量，报告和控制项目或程序，以确保软件的开发和维护是系统化的，规范化的和量化的。
+* Software Engineering rocess 软件工程过程:将用户需求转化为软件所需的软件工程活动的总集,主要包括开发过程、运作过程、维护过程。它们覆盖了需求、设计、实现、确认以及维护等活动
+* Software Quality 软件质量:满足明确的和隐含的需求的能力的特性的总和,包括三个子域，即软件质量基础、软件质量过程、实践考虑。
+* Software Engineering Professional Practice 软件工程专业实践：关注软件工程师必须具备的专业，负责和符合伦理的软件工程知识，技能和态度。
+* Software Engineering Economics 软件工程经济学：关注的是在业务环境中做出决策，以使技术决策与组织的业务目标保持一致。
+* Computing Foundations 计算基础：提供软件工程实践所需的计算背景。
+* Mathematical Foundations 数学基础：提供软件工程实践所需的数学背景。
+* Engineering Foundations 工程基础：提供软件工程实践所需的工程背景。
+
+（5）简单解释CMMI的五个级别
+-------------------------
+* Level 1 -  Initial：无序，自发生产模式，不可预测的、不可控的、被动的
+* Level 2 - Managed：有基本的管理过程，但只针对现有项目，不够系统。
+* Level 3 - Defined：管理组织化，软件产品的生产在整个软件过程是可见的
+* Level 4 - Quantitatively Managed：对软件过程和产品都有定量的理解与控制
+* Level 5 - Optimizing：注重过程的改进和先进的新思想、新技术促使过程持续不断改进
+
+（6）用自己语言简述 SWEBok 或 CMMI
+-------------------------------
+CMMI全称是Capability Maturity Model Integration，即能力成熟度模型集成，其目的是帮助软件企业对软件工程过程进行管理和改进，增强开发与改进能力，从而能按时地、不超预算地开发出高质量的软件。CMMI项目更为工业界和政府部门提供了一个集成的产品集，其主要目的是消除不同模型之间的不一致和重复，降低基于模型改善的成本。CMMI将以更加系统和一致的框架来指导组织改善软件过程，提高产品和服务的开发、获取和维护能力。CMMI为改进一个组织的各种过程提供了一个单一的集成化框架，新的集成模型框架消除了各个模型的不一致性，减少了模型间的重复，增加透明度和理解，建立了一个自动的、可扩展的框架。因而能够从总体上改进组织的质量和效率。CMMI主要关注点就是成本效益、明确重点、过程集中和灵活性四个方面。
+
