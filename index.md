@@ -1,4 +1,4 @@
 # SWSAD 课程作业目录
 
-1. [homework-1](swsadhomework1)
-1. [homework-2](swsadhomework2)
+1. [homework-1](homework1)
+1. [homework-2](homework2)
