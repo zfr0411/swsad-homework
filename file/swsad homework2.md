@@ -26,7 +26,8 @@
 * 至少包含一个团队活动任务
 
 ![看板图片](https://github.com/zfr0411/swsad-homework/blob/master/file/看版练习.png)
+
 ##3、UML绘图工具练习（提交贴图，必须使用 UMLet）
 请在 参考书2 或 教材 中选择一个类图（给出参考书页码图号）
 
-![UML绘图](https://github.com/zfr0411/swsad-homework/blob/master/file/homework2.png）
+![UML绘图](https://github.com/zfr0411/swsad-homework/blob/master/file/homework2.png)
