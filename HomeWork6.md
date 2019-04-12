@@ -51,9 +51,9 @@
   * 请用色彩标注出你认为创新（区别于竞争对手的）用例或子用例
   * 尽可能识别外部系统和服务
   
-1、![携程Hotel](file/Usecase1)
+1、![携程Hotel](file/Usecase1.jpg)
 
-2、![淘票票](file/Usecase2)
+2、![淘票票](file/Usecase2.jpg)
 * 然后，回答下列问题：
 
 1.为什么相似系统的用例图是相似的？
