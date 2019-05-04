@@ -8,7 +8,8 @@
     * Hotel（ID/Key，Name，LoctionID/Fkey，Address…..）
 
 Make Reservation 用例领域建模
-![图片](https://uploader.shimo.im/f/5XWEw9ZRdJcigzch.png!thumbnail)
+
+![图片](file/homework9_1.jpg)
 * Hotel (ID/Key, LocationID/FKey, Name, address, brief-intro, Room_ID)
 * Location (ID/Key, Name, isFavourite)
 * Room (ID/Key,  Name,  isAvailable, Price, isReserved)
