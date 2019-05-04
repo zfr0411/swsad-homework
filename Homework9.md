@@ -18,7 +18,7 @@ Make Reservation 用例领域建模
 * Reservation (ID/Key, Customer_ID/FKey, Hotel_ID/FKey, Check_in_Date,Check_out_Date)
 
 Payment 用例领域建模
-![图片](https://uploader.shimo.im/f/k7q8mDPnSLoiaVLQ.png!thumbnail)
+![图片](file/homework9_2.jpg)
 
 Payment (ID/Key, Reservation_ID/FKey, Date, Total)
 Credit_Card (Type)
@@ -29,4 +29,4 @@ Customer(ID/Key,Name,Email,Phone_Number)
   * 建模对象： 参考 Asg_RH 文档， 对 Reservation/Order 对象建模。
   * 建模要求： 参考练习不能提供足够信息帮助你对订单对象建模，请参考现在 定旅馆 的旅游网站，尽可能分析围绕订单发生的各种情况，直到订单通过销售事件（柜台销售）结束订单。
 
-![图片](https://uploader.shimo.im/f/ZwIEn3a9RnI5t2eo.png!thumbnail)
+![图片](file/homework9_3.jpg)
