@@ -4,7 +4,7 @@
 绘制用例图模型（到子用例）
 酒店预定系统由下面四个部分组成：Select Hotel, Make reservation, manager Basket,Make Payment
 用例图如下:
-![图片](https://uploader.shimo.im/f/tXYpuLnb7NYG2Zc8.jpg!thumbnail)
+![图片](file/7-1.jpg)
 * 给出 make reservation 用例的活动图
 
 ![图片](https://uploader.shimo.im/f/DocfqdyeaLkELweZ.png!thumbnail)
